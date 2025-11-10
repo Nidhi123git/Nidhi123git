@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nidhi Singh</h1>
+<h3 align="center">🚀 Data Scientist | AI & ML Enthusiast | Software Engineer</h3>
 
-<!--
-**Nidhi123git/Nidhi123git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Nidhi123git">
+    <img src="https://komarev.com/ghpvc/?username=Nidhi123git&label=Profile%20views&color=0e75b6&style=flat" alt="Nidhi123git" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+🔹 **Location:** Delhi-NCR, India  
+🔹 **Current Role:** Data Scientist at Neosoft  
+🔹 **Education:** Executive M.Tech (AI & ML) — IIT Jammu  
+🔹 **Interests:** Generative AI, RAG, Deep Learning, NLP  
+🔹 **Publication:** [Springer - Theoretical and Applied Climatology](https://link.springer.com/article/10.1007/s00704-022-04331-x)
+
+---
+
+### 💼 Experience Highlights
+
+#### 🧩 RAG-based AI Insight Generator — Neosoft (2025–Present)
+- Developed a multi-modal AI insight generator using GPT-based LLMs.
+- Integrated **Pinecone** and **Qdrant** for vector search.
+- Built modular pipelines for **audio, video & text** processing.
+
+#### ⚙️ AI Driven Hyper-Automation Platform (PULSE) — CGI (2022–2023)
+- Automated AI modules for **CGI PULSE** using LLM & Feature Engineering.
+- Used **Featuretools, EvalML**, and **Azure MLflow** for end-to-end pipeline.
+
+#### ☁️ Rainfall Prediction Enhancement — NEC (2024)
+- Preprocessed GPV & sensor data for predictive modeling.
+- Built **LightGBM** models for rainfall prediction.
+- Managed ML lifecycle with **MLflow**.
+
+---
+
+### 📊 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [📈 Data Analysis using Python](https://github.com/Nidhi123git/Data-Analysis-Using-Python) | Exploratory data analysis and visualization | Python, Pandas, Plotly |
+| [☁️ Rainfall Prediction Model](#) | Weather forecasting using ML models | LightGBM, Pandas, MLflow |
+| [🧠 RAG-based Insight Generator](#) | AI pipeline using LLMs and vector DBs | LangChain, Pinecone, GPT |
+
+---
+
+### 🛠️ Skills
+
+**Languages:** Python, SQL, HTML, CSS, JavaScript  
+**ML/AI:** Scikit-learn, PyTorch, LightGBM, XGBoost, NLP, RAG, LLMs  
+**Tools:** Azure, Git, MLflow, LangChain, Pinecone, Qdrant  
+**Visualization:** Plotly, Matplotlib, Dash  
+**Databases:** FAISS, Chroma, PgVector  
+
+---
+
+### 🧾 Publications & Conferences
+- 📘 *Theoretical and Applied Climatology* (Springer)  
+- 🧠 ICEWECC 2022 — “Python-Based Data Processing for Rainfall Study”  
+
+---
+
+### 📫 Contact Me
+📧 **Email:** nidhi.singh@example.com  
+💼 **LinkedIn:** [linkedin.com/in/nidhi-singh](#)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhi123git&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhi123git&theme=radical" alt="streak" />
+</p>
