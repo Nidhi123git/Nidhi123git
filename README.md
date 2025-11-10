@@ -22,7 +22,7 @@
 
 #### 🧩 RAG-based AI Insight Generator — Neosoft (2025–Present)
 - Developed a multi-modal AI insight generator using GPT-based LLMs.
-- Integrated **Pinecone** and **Qdrant** for vector search.
+- Integrated **Pinecone** for vector search.
 - Built modular pipelines for **audio, video & text** processing.
 
 #### ⚙️ AI Driven Hyper-Automation Platform (PULSE) — CGI (2022–2023)
@@ -48,11 +48,11 @@
 
 ### 🛠️ Skills
 
-**Languages:** Python, SQL, HTML, CSS, JavaScript  
-**ML/AI:** Scikit-learn, PyTorch, LightGBM, XGBoost, NLP, RAG, LLMs  
-**Tools:** Azure, Git, MLflow, LangChain, Pinecone, Qdrant  
-**Visualization:** Plotly, Matplotlib, Dash  
-**Databases:** FAISS, Chroma, PgVector  
+**Languages:** Python, SQL, HTML, CSS, JavaScript, C/C++, Java 
+**ML/AI:** Scikit-learn, PyTorch, LightGBM, XGBoost, NLP, RAG, LLMs
+**Tools:** Azure, Git, MLflow, LangChain, FastAPI, Docker  
+**Visualization:** Plotly, Matplotlib, Dash, Seaborn 
+**Databases:** FAISS, Chroma, PgVector, Pinecone, Qdrant, Mysql, Postgress
 
 ---
 
