@@ -10,10 +10,10 @@
 ---
 
 ### 👩‍💻 About Me
-🔹 **Location:** Delhi-NCR, India  
-🔹 **Current Role:** Data Scientist at Neosoft  
-🔹 **Education:** Executive M.Tech (AI & ML) — IIT Jammu  
-🔹 **Interests:** Generative AI, RAG, Deep Learning, NLP  
+🔹 **Location:** India  
+🔹 **Current Role:** Data Scientist  
+🔹 **Education:** Executive M.Tech (AI & ML) — IIT Jammu(Persuing)
+🔹 **Interests:** Generative AI, RAG,Machine learning, Deep Learning, NLP  
 🔹 **Publication:** [Springer - Theoretical and Applied Climatology](https://link.springer.com/article/10.1007/s00704-022-04331-x)
 
 ---
