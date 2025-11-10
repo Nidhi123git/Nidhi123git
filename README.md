@@ -63,7 +63,7 @@
 ---
 
 ### 📫 Contact Me
-📧 **Email:** nidhi.singh@example.com  
+📧 **Email:** nidhisingh2015mu@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/nidhi-singh](#)
 
 ---
